@@ -1,7 +1,7 @@
-Projeto Swift - Exercícios de Swift de nível elevado: 
+📲| Projeto Swift - Exercícios de Swift de nível elevado: 
 
 📚|Neste repositório, realizei o desafio de codificar 5 problemas desafiadores para aprimorar minhas habilidades de 
-programação na linguagem Swift 👩🏽‍💻🚀✨💡
+programação na linguagem Swift 💡
 
 📋| Índice: 
 
@@ -61,15 +61,15 @@ seu-repositorio/
 └── README.md
 
 👥| Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests. Para grandes mudanças, por favor, abra uma issue primeiro para discutir o que você gostaria de mudar. 🛠️
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests. Para grandes mudanças, por favor, abra uma issue primeiro para discutir o que você gostaria de mudar. 🛡️🖥️⚙️
 
 📜| Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 📬| Contato
 
-Nome: Pedro Henrique 
+👥| Nome: Pedro Henrique 
 
-Email: henrique.pedro62@aluno.ifce.edu
+📧| Email: henrique.pedro62@aluno.ifce.edu
 
-LinkedIn:https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🌐| LinkedIn:https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
