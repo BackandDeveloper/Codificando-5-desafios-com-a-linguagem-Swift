@@ -47,11 +47,17 @@ Selecione o esquema de execução e clique em “Run” para iniciar o projeto.
 🗃️| Estrutura do Projeto:
 
 seu-repositorio/
+|
 ├── Exercício1.swift
+|
 ├── Exercício2.swift
-├── Exercício3.swift
+|
+├── Exercício3.swif
+|
 ├── Exercício4.swift
+|
 ├── Exercício5.swift
+|
 └── README.md
 
 👥| Contribuição
