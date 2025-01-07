@@ -21,6 +21,7 @@ Xcode 12.0+
 Clone o repositório:
 ```
 git clone > https://github.com/seu-usuario/seu-repositorio.git
+
 ```
 Abra o projeto no Xcode:
 
