@@ -8,6 +8,7 @@ Este projeto foi desenvolvido para praticar e melhorar as minhas habilidades de 
 desafiadores. Cada questão aborda diferentes conceitos, e técnicas da linguagem. 👩🏽‍💻🌐📒
 
 ##  🛠️| Tecnologias Utilizadas:
+
 ```
 Swift 5.0
 
