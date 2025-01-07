@@ -30,7 +30,7 @@ open seu-projeto.xcodeproj
 
 Selecione o esquema de execução e clique em “Run” para iniciar o projeto.
 
-🗃️| Estrutura do Projeto:
+##  🗃️| Estrutura do Projeto:
 
 ```
 seu-repositorio/
