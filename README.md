@@ -5,7 +5,6 @@ programação na linguagem Swift 💡
 
 📋| Índice: 
 
-I- Sobre o Projeto
 
 
 
