@@ -20,7 +20,7 @@ Xcode 12.0+
 
 Clone o repositório:
 ```
-git clone > https://github.com/BackandDeveloper/seu-repositorio.git
+git clone > https://github.com/BackandDeveloper/Codificando-5-desafios-com-a-linguagem-Swift.git
 
 ```
 Abra o projeto no Xcode:
