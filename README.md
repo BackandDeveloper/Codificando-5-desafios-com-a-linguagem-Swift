@@ -58,4 +58,3 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 
 📧| Email: henrique.pedro62@aluno.ifce.edu
 
-🌐| 
