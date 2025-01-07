@@ -1,6 +1,6 @@
 ## 📲| Projeto Swift - Exercícios de Swift de nível elevado: 
 
-# 📚| Neste repositório, realizei o desafio de codificar 5 problemas desafiadores para aprimorar minhas habilidades de programação na linguagem Swift 💡
+ 📚| Neste repositório, realizei o desafio de codificar 5 problemas desafiadores para aprimorar minhas habilidades de programação na linguagem Swift 💡
 
 ## 📖| Sobre o Projeto: 
 
