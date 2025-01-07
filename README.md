@@ -48,7 +48,7 @@ seu-repositorio/
 └── README.md
 ```
 
-👥| Contribuição
+## 👥| Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests. Para grandes mudanças, por favor, abra uma issue primeiro para discutir o que você gostaria de mudar. 🛡️🖥️⚙️
 
 📜| Licença
