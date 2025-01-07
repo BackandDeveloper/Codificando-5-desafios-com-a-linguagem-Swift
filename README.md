@@ -3,7 +3,7 @@
 ## 📚| Neste repositório, realizei o desafio de codificar 5 problemas desafiadores para aprimorar minhas habilidades de 
 programação na linguagem Swift 💡
 
-#📖| Sobre o Projeto: 
+## 📖| Sobre o Projeto: 
 
 Este projeto foi desenvolvido para praticar e melhorar as minhas habilidades de programação em Swift. Através de exercícios 
 desafiadores. Cada questão aborda diferentes conceitos, e técnicas da linguagem. 👩🏽‍💻🌐📒
