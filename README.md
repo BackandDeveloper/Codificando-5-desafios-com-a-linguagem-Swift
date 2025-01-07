@@ -9,7 +9,6 @@ I- Sobre o Projeto
 
 II- Tecnologias Utilizadas
 
-III- Como Executar
 
 
 
