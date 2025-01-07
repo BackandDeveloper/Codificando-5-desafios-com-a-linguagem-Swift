@@ -12,7 +12,7 @@ desafiadores. Cada questão aborda diferentes conceitos, e técnicas da linguage
 Swift 5.0
 
 Xcode 12.0+
-
+```
 💻| Como Executar
 
 Clone o repositório:
