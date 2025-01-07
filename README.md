@@ -26,7 +26,7 @@ git clone > https://github.com/BackandDeveloper/Codificando-5-desafios-com-a-lin
 Abra o projeto no Xcode:
 ```
 cd seu-repositorio>open seu-projeto.xcodeproj
-
+```
 Selecione o esquema de execução e clique em “Run” para iniciar o projeto.
 
 ##  🗃️| Estrutura do Projeto:
