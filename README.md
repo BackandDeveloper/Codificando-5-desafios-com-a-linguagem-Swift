@@ -15,7 +15,7 @@ Swift 5.0
 Xcode 12.0+
 ```
 
-#@💻| Como Executar
+##💻| Como Executar
 
 Clone o repositório:
 
