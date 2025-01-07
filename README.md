@@ -17,6 +17,7 @@ Xcode 12.0+
 💻| Como Executar
 
 Clone o repositório:
+
 git clone
 ```
  https://github.com/seu-usuario/seu-repositorio.git
@@ -30,7 +31,7 @@ open seu-projeto.xcodeproj
 Selecione o esquema de execução e clique em “Run” para iniciar o projeto.
 
 🗃️| Estrutura do Projeto:
-
+```
 seu-repositorio/
 |
 ├── Exercício1.swift
