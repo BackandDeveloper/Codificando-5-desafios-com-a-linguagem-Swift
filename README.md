@@ -17,7 +17,7 @@ V- Contribuição
 
 VI- Licença
 
-VII- Contato
+
 
 📖 Sobre o Projeto: 
 
