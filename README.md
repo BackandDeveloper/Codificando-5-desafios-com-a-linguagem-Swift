@@ -56,7 +56,6 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 
 ## 📬| Contato
 
-
 📧| Email: henrique.pedro62@aluno.ifce.edu
 
 🌐| LinkedIn:https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
