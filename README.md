@@ -52,6 +52,7 @@ seu-repositorio/
 Contribuições são bem-vindas! Sinta-se à vontade para me enviar um e-mail solicitando.
 
 ## 📜| Licença
+
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## 📬| Contato
