@@ -56,7 +56,7 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 
 ##  📬| Contato
 
-👥| Nome: Pedro Henrique 
+
 
 📧| Email: henrique.pedro62@aluno.ifce.edu
 
