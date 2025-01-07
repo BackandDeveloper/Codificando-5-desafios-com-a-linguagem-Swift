@@ -3,7 +3,6 @@
 📚|Neste repositório, realizei o desafio de codificar 5 problemas desafiadores para aprimorar minhas habilidades de 
 programação na linguagem Swift 💡
 
-📋| Índice: 
 
 
 
