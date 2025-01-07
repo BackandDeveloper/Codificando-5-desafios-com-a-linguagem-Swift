@@ -18,7 +18,7 @@ Xcode 12.0+
 ## 💻| Como Executar
 
 Clone o repositório:
-
+```
 git clone
 ```
  https://github.com/seu-usuario/seu-repositorio.git
