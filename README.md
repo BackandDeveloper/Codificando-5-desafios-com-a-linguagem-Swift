@@ -48,8 +48,7 @@ seu-repositorio/
 ```
 
 ## 👥| Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests. Para grandes mudanças, por favor, abra uma issue primeiro para discutir o que você gostaria de mudar. 🛡️🖥️⚙️
-
+Contribuições são bem-vindas! Sinta-se à vontade para 
 ## 📜| Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
