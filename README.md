@@ -7,7 +7,7 @@ programação na linguagem Swift 💡
 
 I- Sobre o Projeto
 
-II- Tecnologias Utilizadas
+
 
 
 
