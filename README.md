@@ -15,7 +15,6 @@ IV- Estrutura do Projeto
 
 V- Contribuição
 
-VI- Licença
 
 
 
