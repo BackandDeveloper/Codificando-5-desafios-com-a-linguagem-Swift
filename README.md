@@ -8,7 +8,7 @@ programação na linguagem Swift 💡
 Este projeto foi desenvolvido para praticar e melhorar as minhas habilidades de programação em Swift. Através de exercícios 
 desafiadores. Cada questão aborda diferentes conceitos, e técnicas da linguagem. 👩🏽‍💻🌐📒
 
-🛠️ Tecnologias Utilizadas:
+🛠️| Tecnologias Utilizadas:
 
 Swift 5.0
 
